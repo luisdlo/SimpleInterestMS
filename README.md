@@ -29,4 +29,4 @@ Must Be:
   To complete the exam you must send a GitHub repository link with the code
 
 
-![alt text](https://github.com/luisdlo/SimpleInterestMS/blob/main/images/swagger.PNG?raw=true)
+![alt text](https://github.com/luisdlo/SimpleInterestMS/blob/main/images/swagger.PNG?raw=false)
