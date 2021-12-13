@@ -47,7 +47,7 @@ Exercises were done to show how the data is being stored in H2 in memory.
 
 
 ### Code Coverage
-A 94% coverage with JUnit and Mockito was done with the help of Jacoco.
+A **94% coverage** with JUnit and Mockito was done with the help of Jacoco.
 ![alt text](https://github.com/luisdlo/SimpleInterestMS/blob/main/images/jacoco.png?raw=false)
 
 
